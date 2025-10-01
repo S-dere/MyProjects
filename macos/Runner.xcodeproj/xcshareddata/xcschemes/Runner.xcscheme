@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "digitalparbhaniclone.app"
+=======
+               BuildableName = "shopping_app.app"
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "digitalparbhaniclone.app"
+=======
+            BuildableName = "shopping_app.app"
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "digitalparbhaniclone.app"
+=======
+            BuildableName = "shopping_app.app"
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "digitalparbhaniclone.app"
+=======
+            BuildableName = "shopping_app.app"
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

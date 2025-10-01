@@ -8,12 +8,20 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:digitalparbhaniclone/main.dart';
+=======
+import 'package:shopping_app/main.dart';
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
+<<<<<<< HEAD
     await tester.pumpWidget(const parbhaniClone());
+=======
+    await tester.pumpWidget(const ShoppingApp());
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);

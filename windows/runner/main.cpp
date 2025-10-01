@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"digitalparbhaniclone", origin, size)) {
+=======
+  if (!window.Create(L"shopping_app", origin, size)) {
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

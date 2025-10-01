@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: digitalparbhaniclone
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
@@ -27,10 +28,19 @@ environment:
 # dependencies can be manually updated by changing the version numbers below to
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
+=======
+name: shopping_app
+description: A new Flutter project
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2
 dependencies:
   flutter:
     sdk: flutter
 
+<<<<<<< HEAD
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
@@ -87,3 +97,8 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+=======
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2

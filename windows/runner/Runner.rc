@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "digitalparbhaniclone" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "digitalparbhaniclone" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "digitalparbhaniclone.exe" "\0"
             VALUE "ProductName", "digitalparbhaniclone" "\0"
+=======
+            VALUE "FileDescription", "shopping_app" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "shopping_app" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "shopping_app.exe" "\0"
+            VALUE "ProductName", "shopping_app" "\0"
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

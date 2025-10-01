@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # digitalparbhaniclone
+=======
+# shopping_app
+641c20025dd800c1811192ebe31e8d7e858c8fa2
 
 A new Flutter project.
 

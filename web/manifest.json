@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "digitalparbhaniclone",
     "short_name": "digitalparbhaniclone",
+=======
+    "name": "shopping_app",
+    "short_name": "shopping_app",
+>>>>>>> 641c20025dd800c1811192ebe31e8d7e858c8fa2
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
